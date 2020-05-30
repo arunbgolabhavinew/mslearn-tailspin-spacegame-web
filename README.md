@@ -1,3 +1,4 @@
+[![Build Status](https://arunbg.visualstudio.com/Space%20Game%20-%20web%20-%20Tests%20new/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=failed-test)](https://arunbg.visualstudio.com/Space%20Game%20-%20web%20-%20Tests%20new/_build/latest?definitionId=3&branchName=failed-test)
 
 # Contributing
 
